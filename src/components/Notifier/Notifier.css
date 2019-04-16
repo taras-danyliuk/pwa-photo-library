@@ -1,0 +1,16 @@
+.notify{
+    background-color: #0066B2;
+    text-align: center;
+    color: white;
+    display: flex;
+    padding: 0 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.danger{
+    background-color: #D77623;
+}
